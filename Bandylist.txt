@@ -1,0 +1,197 @@
+# Localhost (DO NOT REMOVE) Start
+127.0.0.1	localhost
+# Localhost (DO NOT REMOVE) End
+
+#https://github.com/Discover999/Host-Ban-Tik-Tok/blob/master/host.txt
+# Douyin(TikTok) Hosts Start
+127.0.0.1 snssdk.com
+127.0.0.1 dm.toutiao.com
+127.0.0.1 log.snssdk.com
+127.0.0.1 xlog.snssdk.com
+127.0.0.1 i.snssdk.com
+127.0.0.1 aweme.snssdk.com
+127.0.0.1 lf.snssdk.com
+127.0.0.1 is.snssdk.com
+127.0.0.1 mon.snssdk.com
+127.0.0.1 effect.snssdk.com
+127.0.0.1 hotsoon.snssdk.com
+127.0.0.1 nameaweme.snssdk.com
+127.0.0.1 iu.snssdk.com
+127.0.0.1 ib.snssdk.com
+127.0.0.1 sdfp.snssdk.com
+127.0.0.1 aweme-eagle.snssdk.com
+127.0.0.1 security.snssdk.com
+127.0.0.1 toutiao-frontier.snssdk.com
+127.0.0.1 aweme-bee.snssdk.com
+127.0.0.1 aweme-swan.snssdk.com
+127.0.0.1 aweme-swan-hl.snssdk.com
+127.0.0.1 api-bee.amemv.com
+127.0.0.1 amemv.com
+127.0.0.1 api-eagle.amemv.com
+127.0.0.1 api-swan.amemv.com
+127.0.0.1 api-swan-hl.amemv.com
+127.0.0.1 log.byteoversea.com
+127.0.0.1 api.tiktokv.com
+127.0.0.1 dm16.byteoversea.com
+127.0.0.1 log16.byteoversea.com
+127.0.0.1 i.byteoversea.com
+127.0.0.1 dm.bytedance.com
+127.0.0.1 dm.pstatp.com
+127.0.0.1 douyincdn.com
+127.0.0.1 douyinpic.com
+127.0.0.1 mon.zijiepai.com
+127.0.0.1 bytedance.com
+127.0.0.1 bytegecko.com
+127.0.0.1 douyinvod.com
+127.0.0.1 v1-dy.ixigua.com
+127.0.0.1 v2-dy.ixigua.com
+127.0.0.1 v3-dy.ixigua.com
+127.0.0.1 v4-dy.ixigua.com
+127.0.0.1 v5-dy.ixigua.com
+127.0.0.1 v6-dy.ixigua.com
+127.0.0.1 v7-dy.ixigua.com
+127.0.0.1 v8-dy.ixigua.com
+127.0.0.1 v9-dy.ixigua.com
+127.0.0.1 v1.pstatp.com
+127.0.0.1 v2.pstatp.com
+127.0.0.1 v3.pstatp.com
+127.0.0.1 v4.pstatp.com
+127.0.0.1 v5.pstatp.com
+127.0.0.1 v6.pstatp.com
+127.0.0.1 v7.pstatp.com
+127.0.0.1 v8.pstatp.com
+127.0.0.1 v9.pstatp.com
+127.0.0.1 v1-dy-x.ixigua.com
+127.0.0.1 v2-dy-x.ixigua.com
+127.0.0.1 v3-dy-x.ixigua.com
+127.0.0.1 v4-dy-x.ixigua.com
+127.0.0.1 v5-dy-x.ixigua.com
+127.0.0.1 v6-dy-x.ixigua.com
+127.0.0.1 v7-dy-x.ixigua.com
+127.0.0.1 v8-dy-x.ixigua.com
+127.0.0.1 v9-dy-x.ixigua.com
+127.0.0.1 v1-dy-y.ixigua.com
+127.0.0.1 v2-dy-y.ixigua.com
+127.0.0.1 v3-dy-y.ixigua.com
+127.0.0.1 v4-dy-y.ixigua.com
+127.0.0.1 v5-dy-y.ixigua.com
+127.0.0.1 v6-dy-y.ixigua.com
+127.0.0.1 v7-dy-y.ixigua.com
+127.0.0.1 v8-dy-y.ixigua.com
+127.0.0.1 v9-dy-y.ixigua.com
+127.0.0.1 v1-dy.ixiguavideo.com
+127.0.0.1 v2-dy.ixiguavideo.com
+127.0.0.1 v3-dy.ixiguavideo.com
+127.0.0.1 v4-dy.ixiguavideo.com
+127.0.0.1 v5-dy.ixiguavideo.com
+127.0.0.1 v6-dy.ixiguavideo.com
+127.0.0.1 v7-dy.ixiguavideo.com
+127.0.0.1 v8-dy.ixiguavideo.com
+127.0.0.1 v9-dy.ixiguavideo.com
+127.0.0.1 v1-dy-z.ixigua.com
+127.0.0.1 v2-dy-z.ixigua.com
+127.0.0.1 v3-dy-z.ixigua.com
+127.0.0.1 v4-dy-z.ixigua.com
+127.0.0.1 v5-dy-z.ixigua.com
+127.0.0.1 v6-dy-z.ixigua.com
+127.0.0.1 v7-dy-z.ixigua.com
+127.0.0.1 v8-dy-z.ixigua.com
+127.0.0.1 v9-dy-z.ixigua.com
+127.0.0.1 p1-dy.bytecdn.cn
+127.0.0.1 p2-dy.bytecdn.cn
+127.0.0.1 p3-dy.bytecdn.cn
+127.0.0.1 p4-dy.bytecdn.cn
+127.0.0.1 p5-dy.bytecdn.cn
+127.0.0.1 p6-dy.bytecdn.cn
+127.0.0.1 p7-dy.bytecdn.cn
+127.0.0.1 p8-dy.bytecdn.cn
+127.0.0.1 p9-dy.bytecdn.cn
+# Douyin(TikTok) Hosts End
+
+#https://www.mydigit.cn/thread-303416-1-1.html
+#AdGuardHome自定义规则
+||toutiao.com^
+||pstatp.com^
+||snssdk.com^
+||ixigua.com^
+||amemv.com^
+||ixiguavideo.com^
+||yximgs.com^
+||gifshow.com^
+||huoshan.com^
+||iesdouyin.com^
+||bytecdn.cn^
+||douyin.com^
+||huoshanvod.com^
+||douyinvod.com^
+||douyincdn.com^
+||idouyinvod.com^
+||zjurl.cn^
+||zijieapi.com^
+||kuiniuca.com^
+||bdxiguavod.com^
+||bdxiguaimg.com^
+||bdxiguastatic.com^
+||byteimg.com^
+||bytexservice.com^
+||bytedance.com^
+############################
+||kwimgs.com^
+||kuaishou.com^
+||ksapisrv.com^
+||inkuai.com^
+||kwaicdn.com^
+||kspkg.com^
+||etoote.com^
+||etoot.com^
+||kwaixiaodian.com^
+||adkwai.com^
+||eckwai.com^
+||ksyun.com^
+||kuaishouzt.com^
+||kskwai.com^
+||bcelive.com^
+||douyinpic.com^$important
+||yximgs-webrtc.liveplay.myqcloud.com^$important
+||pstatp.com.w.alikunlun.net^$important
+||ixigua.com.wsdvs.com^$important
+||pstatp.com.w.kunlungr.com^$important
+||ixigua.com.zjcdn.com^$important
+||pstatp.com.w.kunlunhuf.com^$important
+||snssdk.com.w.kunluncan.com^$important
+||ksyuncdn.com^$important
+||pstatp.com.w.kunlunpi.com^$important
+||tcdnvod.com^$important
+||pstatp.com.wscdns.com^$important
+||dig.bdurl.net^$important
+||sf3-cdn-tos.douyinstatic.com^$important
+||configdownload.dbankcdn.cn^$important
+||activity-ag.awemeughun.com^$important
+||natdetection.onethingpcs.com^$important
+||metrics1.data.hicloud.com^$important
+||sdkserver.op.hicloud.com^$important
+||opencloud.wostore.cn^$important
+||whoami.akamai.net^$important
+||adash.man.aliyuncs.com^$important
+||lf3-developer-sign.bytemastatic.com^$important
+||mix.jinritemai.com^$important
+||httpdns.alicdn.com^$important
+||sdkoptedge.chinanetcenter.com^$important
+||httpdns.c.cdnhwc2.com^$important
+||mime.baidu.com^$important
+||lf9-vccdn.ndcpp.com^$important
+||lf3-vccdn.ndcpp.com^$important
+||register.xmpush.xiaomi.com^$important
+||beacon-api.aliyuncs.com^$important
+||dnkeeper.platform.dbankcloud.cn^$important
+||umengjmacs.m.taobao.com^$important
+||3132372e302e302e31^$important
+||h5hosting-dbankcdn-com-global.staticcdn.dbankedge.net^$important
+||tmfsdk4.m.qq.com^$important
+||store-drcn.hispace.dbankcloud.cn^$important
+||jforumres-drcn.dbankcdn.cn^$important
+||aop-pic-drcn.dbankcdn.com^$important
+||unipayupg.wostore.cn^$important
+@@||s.click.taobao.com^$important
+@@||s.click.tmall.com^$important
+||lf3-static.bytednsdoc.com^$important
