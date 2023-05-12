@@ -1,0 +1,2 @@
+# bdyhost
+ban douyin adh
