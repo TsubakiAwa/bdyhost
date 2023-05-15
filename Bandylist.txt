@@ -195,3 +195,4 @@
 @@||s.click.taobao.com^$important
 @@||s.click.tmall.com^$important
 ||lf3-static.bytednsdoc.com^$important
+||douyinliving.com^$important
